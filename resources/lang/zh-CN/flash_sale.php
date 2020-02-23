@@ -1,0 +1,22 @@
+<?php
+return [
+    'id' => 'ID',
+    'title' => '标题',
+    'goods_id' => '商品',
+    'item_id' => '规格',
+    'price' => '活动价格',
+    'goods_num' => '参加抢购数量',
+    'buy_limit' => '限购数量',
+    'buy_num' => '已购买人数',
+    'order_num' => '已下单数',
+    'description' => '活动描述',
+    'start_time' => '开始时间',
+    'end_time' => '结束时间',
+    'is_end' => '是否已结束',
+    'goods_name' => '商品名称',
+    'store_id' => '店铺',
+    'is_recommend' => '是否推荐',
+    'status' => '抢购状态',
+    'scene' => '场次',
+    'weigh' => '排序',
+];

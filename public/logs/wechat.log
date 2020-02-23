@@ -1,0 +1,20 @@
+2019-04-12 16:03:00 > yansongda.pay.DEBUG > Starting To Wechat ["app",{"out_trade_no":"scan2019041297565110","body":"城市百香订单：scan2019041297565110","total_fee":1500}] 
+
+2019-04-12 16:03:00 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"appid":"wx95c048395c9763c5","body":"城市百香订单：scan2019041297565110","mch_id":"1529999421","nonce_str":"p3yd5xYmCxAcrSxV","notify_url":"http://lecheng.test/api/wechatpay/notify","out_trade_no":"scan2019041297565110","spbill_create_ip":"127.0.0.1","total_fee":1500,"trade_type":"APP"},"appid=wx95c048395c9763c5&body=城市百香订单：scan2019041297565110&mch_id=1529999421&nonce_str=p3yd5xYmCxAcrSxV&notify_url=http://lecheng.test/api/wechatpay/notify&out_trade_no=scan2019041297565110&spbill_create_ip=127.0.0.1&total_fee=1500&trade_type=APP&"] 
+
+2019-04-12 16:03:00 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"appid":"wx95c048395c9763c5","body":"城市百香订单：scan2019041297565110","mch_id":"1529999421","nonce_str":"p3yd5xYmCxAcrSxV","notify_url":"http://lecheng.test/api/wechatpay/notify","out_trade_no":"scan2019041297565110","spbill_create_ip":"127.0.0.1","total_fee":1500,"trade_type":"APP"},"4a098b32fc1cae4754e4814d59501323"] 
+
+2019-04-12 16:03:00 > yansongda.pay.INFO > Wechat PreOrder Method Has Called ["",{"mch_id":"1529999421","nonce_str":"p3yd5xYmCxAcrSxV","notify_url":"http://lecheng.test/api/wechatpay/notify","spbill_create_ip":"127.0.0.1","out_trade_no":"scan2019041297565110","body":"城市百香订单：scan2019041297565110","total_fee":1500,"appid":"wx95c048395c9763c5","trade_type":"APP","sign":"4A098B32FC1CAE4754E4814D59501323"}] 
+
+2019-04-12 16:03:00 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/pay/unifiedorder",{"mch_id":"1529999421","nonce_str":"p3yd5xYmCxAcrSxV","notify_url":"http://lecheng.test/api/wechatpay/notify","spbill_create_ip":"127.0.0.1","out_trade_no":"scan2019041297565110","body":"城市百香订单：scan2019041297565110","total_fee":1500,"appid":"wx95c048395c9763c5","trade_type":"APP","sign":"4A098B32FC1CAE4754E4814D59501323"}] 
+
+2019-04-12 16:03:53 > yansongda.pay.DEBUG > Starting To Wechat ["app",{"out_trade_no":"scan2019041297565110","body":"城市百香订单：scan2019041297565110","total_fee":1500}] 
+
+2019-04-12 16:03:53 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"appid":"wx95c048395c9763c5","body":"城市百香订单：scan2019041297565110","mch_id":"1529999421","nonce_str":"04jXcnAvE5Nu8U3I","notify_url":"http://lecheng.test/api/wechatpay/notify","out_trade_no":"scan2019041297565110","spbill_create_ip":"127.0.0.1","total_fee":1500,"trade_type":"APP"},"appid=wx95c048395c9763c5&body=城市百香订单：scan2019041297565110&mch_id=1529999421&nonce_str=04jXcnAvE5Nu8U3I&notify_url=http://lecheng.test/api/wechatpay/notify&out_trade_no=scan2019041297565110&spbill_create_ip=127.0.0.1&total_fee=1500&trade_type=APP&"] 
+
+2019-04-12 16:03:53 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"appid":"wx95c048395c9763c5","body":"城市百香订单：scan2019041297565110","mch_id":"1529999421","nonce_str":"04jXcnAvE5Nu8U3I","notify_url":"http://lecheng.test/api/wechatpay/notify","out_trade_no":"scan2019041297565110","spbill_create_ip":"127.0.0.1","total_fee":1500,"trade_type":"APP"},"fb252ff4b6bd4a4e67b6d7af7614872a"] 
+
+2019-04-12 16:03:53 > yansongda.pay.INFO > Wechat PreOrder Method Has Called ["",{"mch_id":"1529999421","nonce_str":"04jXcnAvE5Nu8U3I","notify_url":"http://lecheng.test/api/wechatpay/notify","spbill_create_ip":"127.0.0.1","out_trade_no":"scan2019041297565110","body":"城市百香订单：scan2019041297565110","total_fee":1500,"appid":"wx95c048395c9763c5","trade_type":"APP","sign":"FB252FF4B6BD4A4E67B6D7AF7614872A"}] 
+
+2019-04-12 16:03:53 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/pay/unifiedorder",{"mch_id":"1529999421","nonce_str":"04jXcnAvE5Nu8U3I","notify_url":"http://lecheng.test/api/wechatpay/notify","spbill_create_ip":"127.0.0.1","out_trade_no":"scan2019041297565110","body":"城市百香订单：scan2019041297565110","total_fee":1500,"appid":"wx95c048395c9763c5","trade_type":"APP","sign":"FB252FF4B6BD4A4E67B6D7AF7614872A"}] 
+
